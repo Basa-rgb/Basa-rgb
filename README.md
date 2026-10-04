@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basa-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="basa-rgb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basa-rgb" alt="basa-rgb" /></a> </p>
+<p align="left"> <a href="https://github.com/basa-rgb"><img src="https://github-profile-trophy.vercel.app/?username=basa-rgb" alt="basa-rgb" /></a> </p>
 
 - 🔭 I have done with multiple MERN STACK PROJECT  like: Hamro Samadhan ,ApexFit (These are in my Github)**
 
