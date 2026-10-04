@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/basa-rgb"><img src="https://github-profile-trophy.vercel.app/?username=basa-rgb" alt="basa-rgb" /></a> </p>
+
 
 - 🔭 I have done with multiple MERN STACK PROJECT  like: Hamro Samadhan ,ApexFit (These are in my Github)**
 
