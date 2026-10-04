@@ -5,17 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basa-rgb" alt="basa-rgb" /></a> </p>
 
-- 🔭 I’m currently working on **ApexFit (MERN Fitness Application)**
+- 🔭 I have done with multiple MERN STACK PROJECT  like: Hamro Samadhan ,ApexFit (These are in my Github)**
 
 - 🌱 I’m currently learning **Advanced MERN Stack**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly Open Source Contributions**
 
-- 🤝 I’m looking for help with **Scalable Backend Architecture**
+- 🤝 I’m looking for help with **Scalable Backend Architecture , Frontend Project**
 
 - 💬 Ask me about **JavaScript React Node.js Express.js MongoDB REST APIs Git & GitHub Linux Basics**
 
 - 📫 How to reach me **basantan109@gmail.com**
+- 📫 How to reach me **basantan800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
