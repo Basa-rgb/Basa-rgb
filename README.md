@@ -1,3 +1,4 @@
+<img width="808" height="800" alt="me" src="https://github.com/user-attachments/assets/bd8f1229-1759-4a89-b28e-82c4c1ccd727" />
 <h1 align="center">Hi 👋, I'm Basanta Nepali</h1>
 <h3 align="center">A passionate MERN Stack developer from Nepal</h3>
 
